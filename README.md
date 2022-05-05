@@ -18,9 +18,9 @@
 
 ## ⬇️获取
 
-[单个获取][https://github.com/beixinti/HeadlineNoticePhoto/find/main]
-[打包获取][https://github.com/beixinti/HeadlineNoticePhoto/find/main]
+[单个获取](https://github.com/beixinti/HeadlineNoticePhoto/find/main)
+[打包获取](https://github.com/beixinti/HeadlineNoticePhoto/find/main)
 
-## ➕[关注我][https://taylornation.notion.site/f4ff1f59e0f94dac81963795e8298230]
+## ➕[关注我](https://taylornation.notion.site/f4ff1f59e0f94dac81963795e8298230)
 
-## ☕[打赏][https://taylornation.notion.site/6c2fb8291e364671829fcfd6c459993b]
+## ☕[打赏](https://taylornation.notion.site/6c2fb8291e364671829fcfd6c459993b)
