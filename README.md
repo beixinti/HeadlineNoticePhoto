@@ -19,7 +19,7 @@
 ## ⬇️获取
 
 [单个获取](https://github.com/beixinti/HeadlineNoticePhoto/find/main)  
-[打包获取](https://github.com/beixinti/HeadlineNoticePhoto/find/main)
+[打包获取](https://github.com/beixinti/HeadlineNoticePhoto/releases/tag/Dev)
 
 ## ➕[关注我](https://taylornation.notion.site/f4ff1f59e0f94dac81963795e8298230)
 
